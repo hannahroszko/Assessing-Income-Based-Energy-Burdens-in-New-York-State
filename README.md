@@ -1,0 +1,1 @@
+An analysis of New York State energy burdens using the DOE's 2022 LEAD Tool suggests that low-income households face disproportionately higher energy costs, highlighting a regressive structural burden. State-level relief programs may be better optimized by adopting more nuanced, tiered resource allocations for vulnerable populations.
